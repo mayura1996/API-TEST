@@ -1,0 +1,14 @@
+{
+  "name": "letmehack",
+  "version": "1.0.0",
+  "description": "to hack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blackhawks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

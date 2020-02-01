@@ -1,0 +1,22 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "test for api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "restfull"
+  ],
+  "author": "blackhawks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "password-validator": "^5.0.3",
+    "payload-validator": "^1.0.4",
+    "randomstring": "^1.1.5",
+    "twilio": "^3.39.3"
+  }
+}
